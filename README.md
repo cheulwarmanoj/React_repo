@@ -5,7 +5,7 @@ Please follw the instruction to get the project in local and run it. you will th
 
 Installation
 Clone the github-issues-react-example
-git clone https://github.com/cheulwarmanoj/React_repo.git
+git clone https://github.com/cheulwarmanoj/React_repo.git\n
 Install dependencies
 npm install
 build 
